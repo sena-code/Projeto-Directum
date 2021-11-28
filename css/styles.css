@@ -71,7 +71,7 @@ header{
 main{
     width: 100%;
     height: 100%;
-    background-image: url('./assets/Frame1.png');
+    background-image: url('../assets/Frame1.png');
     
     background-repeat: no-repeat;
     background-attachment: scroll;
